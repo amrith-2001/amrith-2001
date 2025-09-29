@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrith-2001
 - 👀 I’m interested in Ethical hacking and Pentesting
-- 🌱 I’m currently learning B.Tech IT
+- 🌱
 
 
 <!---
